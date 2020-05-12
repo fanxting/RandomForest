@@ -47,7 +47,7 @@ def chooseBest_ToSplit(dataSet):
 
  
 
-decisiontree.py:
+decisiontree.py:    
 	implement ID3 algorithm including(main functions):
 	cal_entropy: calculate the entropy which can help to get the IG
 	chooseBest_ToSplit: find the best feature to split the node
@@ -56,7 +56,7 @@ decisiontree.py:
 	accuracy: calculate the accuracy
 
 
-randomforest.py:
+randomforest.py:     
 	implement 100% boostrap and randomly subspace:
 	divbootstrap: Build new 100% bootstrap samples by randomly selecting N examples from the training data with replacement
 	subfeatures: randomly choose m features and used it in the funciton chooseBest_ToSplit within the decisiontree.py
