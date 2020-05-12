@@ -41,8 +41,8 @@ def chooseBest_ToSplit(dataSet):
             bestFeature = i
     return bestFeature
 
-****************************************************
 ```
+****************************************************
 
  ### b. then run main_dt.py file using the following comment:
         python main_dt.py
